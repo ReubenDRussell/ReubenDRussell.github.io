@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Read Me"
+date:   2024-05-16 08:56:00 +0100
+categories: Testing
+---
+
+This is a test.<br>
+
+The sources will be added in time. <br>
+
+Calculators and other parts of this are undergoing bug checking as of 16/05/24.<br>
+
+The next thing I hope to add (following bug checking) is a search option. This will likely be based off one seen in the "minimal-mistakes-jekyll" theme.<br>
+
+Maybe also add ORC-ID thing to the contact details and a few other bits etc.
