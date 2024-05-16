@@ -53,6 +53,7 @@ include:
 header_pages:
   - about.md
   - Calculators/Calc_menu.md
+  - more_pages/equations_page.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
