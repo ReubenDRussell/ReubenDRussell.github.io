@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-16T13:38:23+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Reuben’s Calculators</title><subtitle>A collection of some useful calculators - mostly aimed at use in experimental nuclear structure research</subtitle><author><name>Reuben Russell</name></author><entry><title type="html">Read Me</title><link href="http://localhost:4000/testing/2024/05/16/Read_me.html" rel="alternate" type="text/html" title="Read Me" /><published>2024-05-16T08:56:00+01:00</published><updated>2024-05-16T08:56:00+01:00</updated><id>http://localhost:4000/testing/2024/05/16/Read_me</id><content type="html" xml:base="http://localhost:4000/testing/2024/05/16/Read_me.html">&lt;p&gt;This is a test.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The sources will be added in time. &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Calculators and other parts of this are undergoing bug checking as of 16/05/24.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The next thing I hope to add (following bug checking) is a search option. This will likely be based off one seen in the “minimal-mistakes-jekyll” theme.&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Maybe also add ORC-ID thing to the contact details and a few other bits etc.&lt;/p&gt;</content><author><name>Reuben Russell</name></author><summary type="html">This is a test.</summary></entry></feed>
