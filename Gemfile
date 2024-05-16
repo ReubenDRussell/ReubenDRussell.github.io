@@ -8,10 +8,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "> 3.8.6"
+# gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 3.9.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", ">2.5" # without the "~" the minima version should be free to update as needed, ==> therefore if a new version with skins it should automatically do it?
+gem "minima", "~>2.5" # without the "~" the minima version should be free to update as needed, ==> therefore if a new version with skins it should automatically do it?
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
