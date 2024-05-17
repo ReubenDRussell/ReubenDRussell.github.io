@@ -27,7 +27,7 @@ Select any that you like the look of. At the moment I am still doing all of the 
 	<button style="background-color: light grey;
 			border: 5px solid blue;
 			color: black;
-			width: 110px;
+			width: 150px;
 			height: 50px;
 			font-size: 20px;
 			margin: 4px 2px"
@@ -48,10 +48,21 @@ Select any that you like the look of. At the moment I am still doing all of the 
 	<button style="background-color: light grey;
 			border: 5px solid blue;
 			color: black;
-			width: 110px;
+			width: 150px;
 			height: 50px;
 			font-size: 20px;
 			margin: 4px 2px"
 			type="button">&beta;<sub>2</sub>&harr;B(E2)</button>
+</a>
+<br>
+<a href="/Calculators/Qs_rot_lim_Calc">
+	<button style="background-color: light grey;
+			border: 5px solid blue;
+			color: black;
+			width: 150px;
+			height: 50px;
+			font-size: 20px;
+			margin: 4px 2px"
+			type="button">|Q<sub>s</sub>|<sub>lim</sub> &harr;B(E2)</button>
 </a>
 <br><br>
