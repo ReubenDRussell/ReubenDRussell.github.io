@@ -39,7 +39,7 @@ J<sub>f </sub> (lower) :
 	<option value="BML_DWN_text">B(ML)↓ (&mu;_N^2 fm^(2L-2) )</option>
 	<option value="BML_UP_text">B(ML)↑ (&mu;_N^2 fm^(2L-2) )</option>
 </select><br>
-<label for="Input_num";>  </label>
+
 <input type="number" id="Input_num" name="Input_num"><br><br><br>
 
 
@@ -232,6 +232,6 @@ Output:
 
 </script>
 
-
+<br><br><br>
 
 <sub> By Reuben </sub>
