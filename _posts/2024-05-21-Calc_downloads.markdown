@@ -6,6 +6,7 @@ categories: Notice
 ---
 
 The calculators included here are also able to be inspected with greater detail/used offline via the following links.
+
 |The Python Version| [Click Here](https://github.com/ReubenDRussell/NucStruc_Calcs_py) |
 |The html Version| [Click Here](https://github.com/ReubenDRussell/NucStruc_Calcs_html) |
 
