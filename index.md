@@ -13,8 +13,6 @@ layout: home
 
 Select any that you like the look of. At the moment I am still doing all of the checks to see if they give the correct/expected numbers. <br>
 
-I am aware that most people working in experimental nuclear will have their own versions of this; <br>if you do and want to use this: I'm flattered, <br>if you don't and have stumbled across this: help yourself, <br>if you are me and are reading this: WHY?!<br>
-
 <a href="/Calculators/BEL_Calc">
 	<button style="background-color: light grey;
 			border: 5px solid blue;
