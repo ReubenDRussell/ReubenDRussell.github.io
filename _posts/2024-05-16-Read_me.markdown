@@ -16,3 +16,5 @@ Calculators and other parts of this are undergoing bug checking as of 16/05/24.<
 The next thing I hope to add (following bug checking) is a search option. This will likely be based off one seen in the "minimal-mistakes-jekyll" theme.<br>
 
 Maybe also add ORC-ID thing to the contact details and a few other bits etc.
+
+I am aware that most people working in experimental nuclear will have their own versions of this; <br>if you do and want to use this: I'm flattered, <br>if you don't and have stumbled across this: help yourself, <br>if you are me and are reading this: WHY?!<br>
