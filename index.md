@@ -6,12 +6,13 @@
 layout: home
 ---
 
-###### Version:1.0 :: Still Bug Checking
+<!-- ###### Version:1.0 :: Still Bug Checking -->
+###### Version:1.1 :: Less Buggy
 
 
 ## Some calculators:
 
-Select any that you like the look of. At the moment I am still doing all of the checks to see if they give the correct/expected numbers. <br>
+Select any that you like the look of. At the moment I am still doing all of the checks to see if they give the correct/expected numbers.
 
 <a href="/Calculators/BEL_Calc">
 	<button style="background-color: light grey;
@@ -64,5 +65,15 @@ Select any that you like the look of. At the moment I am still doing all of the 
 			font-size: 20px;
 			margin: 4px 2px"
 			type="button">|Q<sub>s</sub>|<sub>lim</sub> &harr;B(E2)</button>
+</a>
+<a href="/Calculators/Safe_Coulex">
+	<button style="background-color: light grey;
+			border: 5px solid blue;
+			color: black;
+			width: 150px;
+			height: 50px;
+			font-size: 20px;
+			margin: 4px 2px"
+			type="button">Coulex</button>
 </a>
 <br><br>

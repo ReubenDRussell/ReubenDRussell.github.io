@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Reuben's Calculators"
 author: Reuben Russell
-version: "Version:1.0 :: Still Bug Checking"
+# version: "Version:1.0 :: Still Bug Checking"
+version: "Version:1.1 :: Less Buggy"
 email: reuben.russell@surrey.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of some useful calculators - mostly aimed at use in experimental nuclear structure research
