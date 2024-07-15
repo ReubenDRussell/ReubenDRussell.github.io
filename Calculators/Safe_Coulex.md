@@ -29,7 +29,7 @@ Scattering Angle (&theta;) in degrees:
 
 
 
-<label for="input_menu_variable";> What Are You Inputting? </label>
+What Are You Inputting?
 <select id="input_menu_variable" name="input_menu_variable">
 	<option value="SEPARATION_text"> Separation (fm) </option>
 	<option value="E_BOMB_text"> Bombarding Energy (MeV) </option>
